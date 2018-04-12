@@ -1,6 +1,9 @@
 # Employee database
 
-> A Vue.js project with graph database(neo4j)
+> A Vue.js project with graph database(neo4j)  
+  
+## Pre-Requisite
+neo4j must be installed in system and service must be running.
 
 ## Setup
 git clone 'https://github.com/sudheeshshetty/EmployeeDatabase.git'  
